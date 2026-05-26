@@ -4,6 +4,7 @@
 
 You drop in files, type the folder names you want, hit **Organise**, and the AI reads each file's content and decides where it belongs.
 
+![Alt Text](filesortai_demo/actual_demo.png)
 ---
 
 ## ✨ Features
